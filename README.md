@@ -1,11 +1,31 @@
 ## Hi there! 👋 I'm Pournima
 ### 🚀 QA Automation Engineer | Passionate About Test Automation, CI/CD and AI for Automation
 
-🔹 14+ years of experience in **QA Automation, Test Strategy, and DevOps**  
-🔹 Skilled in **E2E Testing, API Testing, Mobile & Web Automation**  
-🔹 Expertise in **Java, Selenium, Appium, RestAssured, TestNG, Cucumber**  
-🔹 Enthusiastic about **AI-powered Testing & Continuous Testing**  
-🔹 Experience in **Agile methodologies, Scrum, and Test Management**
+🔹 14+ years of experience in **Quality Assurance & Automation**  
+🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing**  
+🔹 Passionate about **Agile** methodologies and **Continuous Testing**  
+
+---
+
+## 🚀 **What I Do**  
+- **Test Automation**: Building reliable and scalable automation frameworks for Web, Mobile, and API Testing.
+- **CI/CD Integration**: Automating tests in CI pipelines using tools like **Jenkins, GitHub Actions**, and **Docker**.
+- **Performance Testing**: Ensuring systems scale and perform using **JMeter** and **Load Testing** techniques.
+- **Cloud Testing**: Leveraging **BrowserStack** for cross-browser and mobile testing.
+- **Database Testing**: Proficient in testing **SQL** and **NoSQL (MongoDB)** databases.
+
+---
+
+## 🛠️ **My Tech Stack**  
+- **Languages**: Java, Python, SQL  
+- **Automation Tools**: Selenium, Appium, TestNG, JUnit, RestAssured  
+- **Performance Testing**: JMeter  
+- **CI/CD**: Jenkins, GitHub Actions, Docker  
+- **Cloud Services**: BrowserStack, Kubernetes  
+- **Version Control**: Git, GitHub  
+- **Database**: MongoDB, MySQL  
+- **Build Tools**: Maven, Gradle
+
 
 ---
 
