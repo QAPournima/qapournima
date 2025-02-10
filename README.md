@@ -5,6 +5,7 @@
 🔹 Skilled in **E2E Testing, API Testing, Mobile & Web Automation**  
 🔹 Expertise in **Java, Selenium, Appium, RestAssured, TestNG, Cucumber**  
 🔹 Enthusiastic about **AI-powered Testing & Continuous Testing**  
+🔹 Experience in **Agile methodologies, Scrum, and Test Management**
 
 ---
 
@@ -18,6 +19,15 @@
 ![JMeter](https://img.shields.io/badge/JMeter-E2231A?style=flat&logo=apachejmeter&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-004880?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7A00?style=flat&logo=browserstack&logoColor=white)
 
 ---
 
@@ -26,6 +36,7 @@
 🌟 [API Testing with RestAssured](https://github.com/yourusername/api-testing)  
 🌟 [Mobile Automation with Appium](https://github.com/yourusername/appium-framework)  
 🌟 [CI/CD Pipeline for Test Automation](https://github.com/yourusername/ci-cd-testing)  
+🌟 [Performance Testing Scripts (JMeter)](https://github.com/yourusername/jmeter-scripts)  
 
 ---
 
@@ -37,10 +48,7 @@
 
 ### 📬 **Let's Connect!**
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-🔗 [Medium/Blog](https://yourblog.com/)  
-🔗 [Twitter](https://twitter.com/yourhandle)  
 
 ---
 
 💡 *"Quality is never an accident; it is always the result of intelligent effort."* 🚀  
-
