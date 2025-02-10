@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ **My Tech Stack**  
-- **Languages**: Java, Python, SQL  
+- **Languages**: Java, SQL  
 - **Automation Tools**: Selenium, Appium, TestNG, JUnit, RestAssured  
 - **Performance Testing**: JMeter  
 - **CI/CD**: Jenkins, GitHub Actions, Docker  
