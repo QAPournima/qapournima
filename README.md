@@ -2,7 +2,7 @@
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
- <h4 align="center"> 🚀 QA Automation Engineer 🔹 14+ years of experience in <strong> Quality Assurance & Automation </strong> 🔹 Skilled in <strong> Java, Selenium, Appium, API Testing, CI/CD, Performance Testing </strong> 🔹 Passionate about <strong> Agile Methodologies </strong> and <strong> Continuous Testing! </strong>  
+ <h4 align="center"> 🚀 QA Automation Engineer 🔹 14+ years of experience in <strong> Quality Assurance & Automation </strong> 🔹 Skilled in <strong> Java, Selenium, Appium, API Testing, CI/CD, Performance Testing </strong> 🔹 Passionate about <strong> Agile Methodologies </strong> and <strong> Continuous Testing. </strong>  
  </h4>
 </p>
  
@@ -92,3 +92,6 @@
 ---
 
 <p align="center"> <i> <em> 💫"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."💫 </i></em></p>
+
+---
+---
