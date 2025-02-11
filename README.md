@@ -1,8 +1,9 @@
-<h1 align="center">🌟 Glad you're here to explore my GitHub! 🌟</h1>
+<h1 align="center" style="background-color:powderblue;">🌟 Glad you're here to explore my GitHub! 🌟</h1>
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
-  🚀 QA Automation Engineer & Passionate About Test Automation, CI/CD and AI for Automation 🔹 14+ years of experience in **Quality Assurance & Automation** 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing** 🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
+ <h4 align="center"> 🚀 QA Automation Engineer & Passionate About Test Automation, CI/CD and AI for Automation 🔹 14+ years of experience in **Quality Assurance & Automation** 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing** 🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
+ </h4>
 </p>
  
 <p align="center">
@@ -10,7 +11,7 @@
  Whether you're here to explore, contribute, or get inspired, let's create something extraordinary together! 🚀
 </p>
 <p align="center">
-    Feel free to connect, share your ideas, and let's create something amazing together—because the best creations come from collaboration! ✨
+   <i> Feel free to connect, share your ideas, and let's create something amazing together—because the best creations come from collaboration! ✨ </i>
 </p>
 
 <h2>👩🏻‍💻 About Me 
