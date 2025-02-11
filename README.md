@@ -18,20 +18,22 @@
 </h2>
 </p>
 <p align="center">
-<ul>  <li>
+<ul>  
   
-🔭Currently Working at: SaaS Company   </li>
+<li>🔭Currently Working at: SaaS Company </li>
 <li>🔭 Current Role: Engineering Team Lead - QA Automation</li>
-🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified
-🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce
-🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation
-💼 Leadership: Stakeholder Management | Team Coordination | Agile & Continuous Testing
-🛠️ Tools: Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center
-</p>
+<li>🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified</li>
+<li>🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce</li>
+<li>🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation</li>
+<li>💼 Leadership: Stakeholder Management | Team Coordination | Agile & Continuous Testing</li>
+<li>🛠️ Tools: Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center</li>
+
    </li>
     <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
     <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
     <li>⚡ <strong>Fun Fact:</strong> I love experimenting with new tools, AI for automation testing and doing POC!</li>
+    
+  </p>
 </ul>
 ---
 
