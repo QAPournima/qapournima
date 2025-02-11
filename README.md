@@ -2,10 +2,7 @@
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
-  🚀 QA Automation Engineer & Passionate About Test Automation, CI/CD and AI for Automation
-🔹 14+ years of experience in **Quality Assurance & Automation**  
-🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing**  
-🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
+  🚀 QA Automation Engineer & Passionate About Test Automation, CI/CD and AI for Automation 🔹 14+ years of experience in **Quality Assurance & Automation** 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing** 🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
 </p>
  
 <p align="center">
