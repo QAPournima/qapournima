@@ -20,18 +20,18 @@
 <p align="center">
 <ul>  
   
-<li>🔭Currently Working at: SaaS Company </li>
-<li>🔭 Current Role: Engineering Team Lead - QA Automation</li>
-<li>🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified</li>
-<li>🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce</li>
-<li>🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation</li>
-<li>💼 Leadership: Stakeholder Management | Team Coordination | Agile & Continuous Testing</li>
-<li>🛠️ Tools: Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center</li>
+<li>🏢 <strong>Currently Working at:</strong> <em>SaaS Company UK </em></li>
+<li>🔭 <strong>Current Role:</strong> <em>Engineering Team Lead - QA Automation</em></li>
+<li>🎓 <strong>Certifications:</strong> <em>ISTQB | PRINCE2 | CSM | CAT Certified</em></li>
+<li>🌐 <strong>Domains:</strong> <em>Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce</em></li>
+<li>🤖 <strong>Expertise:</strong> <em>Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation</em></li>
+<li>💼 <strong>Leadership:</strong> <em>Stakeholder Management | Team Coordination | Agile & Continuous Testing</em></li>
+<li>🛠️ <strong>Tools:</strong> <em>Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center</em></li>
 
    </li>
     <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
     <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
-    <li>⚡ <strong>Fun Fact:</strong> I love experimenting with new tools, AI for automation testing and doing POC!</li>
+    <li>⚡ <strong>Fun Fact:</strong> I love experimenting with new tools, AI for automation testing and working on POC!</li>
     
   </p>
 </ul>
@@ -45,18 +45,6 @@
 - **Database Testing**: Proficient in testing **SQL** and **NoSQL (MongoDB)** databases.
 
 ---
-
-## 🛠️ **My Tech Stack**  
-- **Languages**: Java, SQL  
-- **Automation Tools**: Selenium, Appium, TestNG, Cucumber, JUnit, RestAssured  
-- **Performance Testing**: JMeter  
-- **CI/CD**: Jenkins, GitHub Actions, Docker  
-- **Cloud Services**: BrowserStack  
-- **Version Control**: Git, GitHub  
-- **Database**: MongoDB, MySQL  
-- **Build Tools**: Maven, Gradle
-
-
 ---
 
 ### 🛠️ **Tech Stack & Tools**
@@ -101,4 +89,4 @@
 
 ---
 
-💡 *"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."* 💫
+💡 <em> *"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."* </em> 💫
