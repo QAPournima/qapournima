@@ -1,10 +1,33 @@
+<h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
+<p align="center">
 ## Hi there! 👋 I'm Pournima
 ### 🚀 QA Automation Engineer | Passionate About Test Automation, CI/CD and AI for Automation
-
 🔹 14+ years of experience in **Quality Assurance & Automation**  
 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing**  
-🔹 Passionate about **Agile** methodologies and **Continuous Testing**  
+🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
+</p>
+ 
+<p align="center">
+    Whether you're here to explore my open-source projects, collaborate on exciting ideas, or just get inspired, 
+    I hope you enjoy your time here. Let's build the future of tech together! 🚀
+</p>
+<p align="center">
+    Feel free to reach out, connect, and share ideas. Collaboration is where the magic happens! ✨
+</p>
 
+<h2>About Me 
+</h2>
+
+<ul>
+    <li>🔭 <strong>Currently Working at:</strong> Aircall <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
+    <li>
+🌟 Experienced QA Lead 🌟 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 📱 Mobile Testing 📱 | 🌐 Web Application Testing 🌐 | ⚓️ API Testing ⚓️ | 💻 Automation Enthusiast 💻 | 🌐 Agile Practitioner 🌐
+🌟 Quality Assurance Leader with 14+ Years Experience 🌟 | 📡 Telecom, CRM, 🚖 Ride Healing, 🛫Airlines, ☎️ Cloud calling, 🛢️ Oil & Gas Domains | 🤖 Automation Expert: Selenium & Appium with Java 🤖 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 💼 Stakeholder Management, QA Team management | Coordination with Dev, Product & CS Team | 📝 Test Case Design, Test Plan, Traceability matrix, Test Strategy, Test Execution | 🛠️ Tools: Jira, Confluence, Bugzilla, Zephyr, Datadog, TFS, MTM, HP Quality Center, Postman | 🌐 Web, Mobile, API Testing 🌐
+   </li>
+    <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
+    <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
+    <li>⚡ <strong>Fun Fact:</strong> I love experimenting with new tools, AI for automation testing and doing POC!</li>
+</ul>
 ---
 
 ## 🚀 **What I Do**  
