@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue;">🌟 Glad you're here to explore my GitHub! 🌟</h1>
+<h1 align="center">🌟 Glad you're here to explore my GitHub! 🌟</h1>
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
@@ -21,8 +21,18 @@
 <ul>  <li>🔭 <strong>Currently Working at:</strong> SaaS Company <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
       <li>
 </p>
-🌟 Experienced Engineering Team Lead - QA Automation 🌟 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 📱 Mobile Testing 📱 | 🌐 Web Application Testing 🌐 | ⚓️ API Testing ⚓️ | 💻 Automation Enthusiast 💻 | 🌐 Agile Practitioner 🌐
-🌟 Engineering Team Lead - QA Automation with 14+ Years Experience 🌟 | 📡 Telecom, 📊CRM, 🚖 Ride Healing, 🛫Airlines, ☎️ Cloud calling, 🛢️ Oil & Gas Domains, 🛍️ e-commerce, etc. | 🤖 Automation Expert: Selenium & Appium with Java 🤖 | 💼 Stakeholder Management, QA Team management | Coordination with Dev, Product & CS Team | 📝 Test Case Design, Test Plan, Traceability matrix, Test Strategy, Test Execution | 🛠️ Tools: Jira, Confluence, Bugzilla, Zephyr, Datadog, TFS, MTM, HP Quality Center, Postman, Browserstack|
+🔭 Current Role: Engineering Team Lead - QA Automation at a leading SaaS company
+
+🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified
+
+🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce
+
+🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation
+
+💼 Leadership: Stakeholder Management | Team Coordination | Agile & Continuous Testing
+
+🛠️ Tools: Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center
+
    </li>
     <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
     <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
