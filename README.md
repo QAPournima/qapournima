@@ -35,7 +35,8 @@
     
   </p>
 </ul>
----
+
+
 
 ## 🚀 **What I Do**  
 - **Test Automation**: Building reliable and scalable automation frameworks for Web, Mobile, and API Testing.
@@ -66,6 +67,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7A00?style=flat&logo=browserstack&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
 
 ---
 
