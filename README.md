@@ -18,21 +18,16 @@
 </h2>
 </p>
 <p align="center">
-<ul>  <li>🔭 <strong>Currently Working at:</strong> SaaS Company <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
-      <li>
-</p>
-🔭 Current Role: Engineering Team Lead - QA Automation at a leading SaaS company
-
+<ul>  <li>
+  
+🔭Currently Working at: SaaS Company   
+🔭 Current Role: Engineering Team Lead - QA Automation
 🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified
-
 🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce
-
 🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation
-
 💼 Leadership: Stakeholder Management | Team Coordination | Agile & Continuous Testing
-
 🛠️ Tools: Jira, Confluence, Postman, BrowserStack, Datadog, TFS, HP Quality Center
-
+</p>
    </li>
     <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
     <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
