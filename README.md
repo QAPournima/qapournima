@@ -92,4 +92,4 @@
 
 ---
 
-💡 <em> *"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."* </em> 💫
+<p style="color:blue;"> <em> 💡 *"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."* 💫 </em></p>
