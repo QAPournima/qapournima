@@ -20,8 +20,8 @@
 <p align="center">
 <ul>  <li>
   
-🔭Currently Working at: SaaS Company   
-🔭 Current Role: Engineering Team Lead - QA Automation
+🔭Currently Working at: SaaS Company   </li>
+<li>🔭 Current Role: Engineering Team Lead - QA Automation</li>
 🎓 Certifications: ISTQB | PRINCE2 | CSM | CAT Certified
 🌐 Domains: Telecom | CRM | Ride Hailing | Airlines | Cloud Calling | Oil & Gas | eCommerce
 🤖 Expertise: Selenium, Appium, Java, API Testing, CI/CD, Performance Testing, AI for Test Automation
