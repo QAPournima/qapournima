@@ -2,7 +2,7 @@
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
- <h4 align="center"> 🚀 QA Automation Engineer & Passionate About Test Automation, CI/CD and AI for Automation 🔹 14+ years of experience in **Quality Assurance & Automation** 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing** 🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
+ <h4 align="center"> 🚀 QA Automation Engineer 🔹 14+ years of experience in <strong>Quality Assurance & Automation</strong> 🔹 Skilled in <strong>Java, Selenium, Appium, API Testing, CI/CD, Performance Testing</strong> 🔹 Passionate about <strong>Agile Methodologies and <strong>Continuous Testing</strong>  
  </h4>
 </p>
  
@@ -39,11 +39,11 @@
 
 
 ## 🚀 **What I Do**  
-- **Test Automation**: Building reliable and scalable automation frameworks for Web, Mobile, and API Testing.
-- **CI/CD Integration**: Automating tests in CI pipelines using tools like **Jenkins, GitHub Actions**, and **Docker**.
-- **Performance Testing**: Ensuring systems scale and perform using **JMeter** and **Load Testing** techniques.
-- **Cloud Testing**: Leveraging **BrowserStack** for cross-browser and mobile testing.
-- **Database Testing**: Proficient in testing **SQL** and **NoSQL (MongoDB)** databases.
+- **✅ Test Automation**: Building reliable and scalable automation frameworks for Web, Mobile, and API Testing.
+- **✅ CI/CD Integration**: Automating tests in CI pipelines using tools like **Jenkins, GitHub Actions**, and **Docker**.
+- **✅ Performance Testing**: Ensuring systems scale and perform using **JMeter** and **Load Testing** techniques.
+- **✅ Cloud Testing**: Leveraging **BrowserStack** for cross-browser and mobile testing.
+- **✅ Database Testing**: Proficient in testing **SQL** and **NoSQL (MongoDB)** databases.
 
 ---
 ---
@@ -92,4 +92,4 @@
 
 ---
 
-<p align="center"> <em> 💫"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."💫 </em></p>
+<p align="center"> <i> <em> 💫"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."💫 </i></em></p>
