@@ -21,8 +21,8 @@
 <ul>
     <li>🔭 <strong>Currently Working at:</strong> Aircall <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
     <li>
-🌟 Experienced QA Lead 🌟 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 📱 Mobile Testing 📱 | 🌐 Web Application Testing 🌐 | ⚓️ API Testing ⚓️ | 💻 Automation Enthusiast 💻 | 🌐 Agile Practitioner 🌐
-🌟 Quality Assurance Leader with 14+ Years Experience 🌟 | 📡 Telecom, CRM, 🚖 Ride Healing, 🛫Airlines, ☎️ Cloud calling, 🛢️ Oil & Gas Domains | 🤖 Automation Expert: Selenium & Appium with Java 🤖 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 💼 Stakeholder Management, QA Team management | Coordination with Dev, Product & CS Team | 📝 Test Case Design, Test Plan, Traceability matrix, Test Strategy, Test Execution | 🛠️ Tools: Jira, Confluence, Bugzilla, Zephyr, Datadog, TFS, MTM, HP Quality Center, Postman | 🌐 Web, Mobile, API Testing 🌐
+🌟 Experienced Engineering Team Lead - QA Automation 🌟 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 📱 Mobile Testing 📱 | 🌐 Web Application Testing 🌐 | ⚓️ API Testing ⚓️ | 💻 Automation Enthusiast 💻 | 🌐 Agile Practitioner 🌐
+🌟 Engineering Team Lead - QA Automation with 14+ Years Experience 🌟 | 📡 Telecom, 📊CRM, 🚖 Ride Healing, 🛫Airlines, ☎️ Cloud calling, 🛢️ Oil & Gas Domains, 🛍️ e-commerce, etc. | 🤖 Automation Expert: Selenium & Appium with Java 🤖 | 💼 Stakeholder Management, QA Team management | Coordination with Dev, Product & CS Team | 📝 Test Case Design, Test Plan, Traceability matrix, Test Strategy, Test Execution | 🛠️ Tools: Jira, Confluence, Bugzilla, Zephyr, Datadog, TFS, MTM, HP Quality Center, Postman, Browserstack|
    </li>
     <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven Automation</em>, <em>Mobile Automation</em>, and <em>Web/Desktop App Automation</em>.</li>
     <li>💬 <strong>Ask Me About:</strong> QA Process, Automation framework, AI tools, and Github.</li>
