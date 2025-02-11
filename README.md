@@ -10,9 +10,7 @@
     Step into my GitHub—where ideas come to life, innovation thrives, and collaboration fuels the future. 
  Whether you're here to explore, contribute, or get inspired, let's create something extraordinary together! 🚀
 </p>
-<p align="center">
-   <i> Feel free to connect, share your ideas, and let's create something amazing together—because the best creations come from collaboration! ✨ </i>
-</p>
+---
 
 <h2>👩🏻‍💻 About Me 
 </h2>
