@@ -7,8 +7,8 @@
 </p>
  
 
-<p align="center"> <i> <em> Step into my GitHub - where ideas come to life, innovation thrives and collaboration fuels the future. 
- Whether you're here to explore, contribute, or get inspired, let's create something extraordinary together! 🚀 </i></em></p>
+<p> <h3 align="center"> <i> <em> Step into my GitHub - where ideas come to life, innovation thrives and collaboration fuels the future. 
+ Whether you're here to explore, contribute, or get inspired, let's create something extraordinary together! 🚀 </i></em></h4></p>
 
 
 ---
