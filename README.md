@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:blue;">🌟 Glad you're here to explore my GitHub! 🌟</h1>
+<h1 align="center" style="color:blue;">🌟 Glad you're here to explore my GitHub! 🌟</h1>
 <p align="center">
   <h3  align="center"> Hi there! 👋 I'm Pournima  </h3>
  
