@@ -1,26 +1,27 @@
-<h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
+<h1 align="center">🌟 Glad you're here to explore my GitHub! 🌟</h1>
 <p align="center">
-## Hi there! 👋 I'm Pournima
-### 🚀 QA Automation Engineer | Passionate About Test Automation, CI/CD and AI for Automation
+   Hi there! 👋 I'm Pournima 
+ 🚀 QA Automation Engineer | Passionate About Test Automation, CI/CD and AI for Automation
 🔹 14+ years of experience in **Quality Assurance & Automation**  
 🔹 Skilled in **Java, Selenium, Appium, API Testing, CI/CD, Performance Testing**  
 🔹 Passionate about **Agile** methodologies and **Continuous Testing** 
 </p>
  
 <p align="center">
-    Whether you're here to explore my open-source projects, collaborate on exciting ideas, or just get inspired, 
-    I hope you enjoy your time here. Let's build the future of tech together! 🚀
+    Step into my GitHub—where ideas come to life, innovation thrives, and collaboration fuels the future. 
+ Whether you're here to explore, contribute, or get inspired, let's create something extraordinary together! 🚀
 </p>
 <p align="center">
-    Feel free to reach out, connect, and share ideas. Collaboration is where the magic happens! ✨
+    Feel free to connect, share your ideas, and let's create something amazing together—because the best creations come from collaboration! ✨
 </p>
 
-<h2>About Me 
+<h2>👩🏻‍💻 About Me 
 </h2>
-
-<ul>
-    <li>🔭 <strong>Currently Working at:</strong> Aircall <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
-    <li>
+</p>
+<p align="center">
+<ul>  <li>🔭 <strong>Currently Working at:</strong> SaaS Company <strong>Engineering Team Lead - QA Automation</strong>, specializing in QA Automation </li>
+      <li>
+</p>
 🌟 Experienced Engineering Team Lead - QA Automation 🌟 | 🎓 ISTQB, PRINCE2, CSM & CAT Certified 🎓 | 📱 Mobile Testing 📱 | 🌐 Web Application Testing 🌐 | ⚓️ API Testing ⚓️ | 💻 Automation Enthusiast 💻 | 🌐 Agile Practitioner 🌐
 🌟 Engineering Team Lead - QA Automation with 14+ Years Experience 🌟 | 📡 Telecom, 📊CRM, 🚖 Ride Healing, 🛫Airlines, ☎️ Cloud calling, 🛢️ Oil & Gas Domains, 🛍️ e-commerce, etc. | 🤖 Automation Expert: Selenium & Appium with Java 🤖 | 💼 Stakeholder Management, QA Team management | Coordination with Dev, Product & CS Team | 📝 Test Case Design, Test Plan, Traceability matrix, Test Strategy, Test Execution | 🛠️ Tools: Jira, Confluence, Bugzilla, Zephyr, Datadog, TFS, MTM, HP Quality Center, Postman, Browserstack|
    </li>
@@ -41,10 +42,10 @@
 
 ## 🛠️ **My Tech Stack**  
 - **Languages**: Java, SQL  
-- **Automation Tools**: Selenium, Appium, TestNG, JUnit, RestAssured  
+- **Automation Tools**: Selenium, Appium, TestNG, Cucumber, JUnit, RestAssured  
 - **Performance Testing**: JMeter  
 - **CI/CD**: Jenkins, GitHub Actions, Docker  
-- **Cloud Services**: BrowserStack, Kubernetes  
+- **Cloud Services**: BrowserStack  
 - **Version Control**: Git, GitHub  
 - **Database**: MongoDB, MySQL  
 - **Build Tools**: Maven, Gradle
@@ -94,4 +95,4 @@
 
 ---
 
-💡 *"Quality is never an accident; it is always the result of intelligent effort."* 🚀  
+💡 *"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."* 💫
