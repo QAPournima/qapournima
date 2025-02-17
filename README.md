@@ -80,12 +80,14 @@
 ---
 ---
 
-### 🚀 **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=QApournima&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QApournima&layout=compact&theme=dark)  
+### 🚀 **GitHub Stats & Achievements**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qapournima&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qapournima&layout=compact&theme=dark)
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=qapournima&theme=flat&column=4)
 
 ---
-
 ### 📬 **Let's Connect!**
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 
