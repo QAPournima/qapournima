@@ -89,7 +89,7 @@
 ### 📬 **Let's Connect!**
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 
----
+--- 
 
 <p align="center"> <i> <em> 💫"Quality in software testing isn’t a coincidence—it's the outcome of smart automation, rigorous validation, and relentless improvement."💫 </i></em></p>
 
